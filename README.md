@@ -41,3 +41,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Susan Nelson** Spencer is a renowned corporate trainer and adjunct college instructor who has successfully pivoted into the growing field of instructional design. Susan is the owner of Sandbox Learning Experience Design, which offers ID services for corporate and not-for-profit clients. She has worked with all types of clients, from Fortune 500 companies to family-owned not-for-profit foundations.	
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801819510">https://packt.link/free-ebook/9781801819510 </a> </p>
